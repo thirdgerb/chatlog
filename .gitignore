@@ -1,0 +1,15 @@
+.buildpath
+.settings/
+.project
+*.patch
+.idea/
+.git/
+vendor/
+.phpintel/
+.env
+.DS_Store
+*.lock
+.phpunit*
+.rocketeer/
+deploy/
+test.php
